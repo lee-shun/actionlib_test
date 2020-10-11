@@ -1,0 +1,26 @@
+{
+    "configurations": [
+        {
+            "browse": {
+                "databaseFilename": "",
+                "limitSymbolsToIncludedHeaders": true
+            },
+            "includePath": [
+                "/opt/ros/melodic/include/**",
+                "/home/lee/catkin_ws/devel/include/**",
+                "/home/lee/catkin_ws/src/actionlib_test/include/**",
+                "/home/lee/catkin_ws/src/darknet_ros/darknet_ros/include/**",
+                "/home/lee/catkin_ws/src/gazebo_tutorials/include/**",
+                "/home/lee/catkin_ws/src/multi_thread/include/**",
+                "/home/lee/catkin_ws/src/vans_copter/include/**",
+                "/usr/include/**"
+            ],
+            "name": "ROS",
+            "intelliSenseMode": "gcc-x64",
+            "compilerPath": "/usr/bin/clang",
+            "cStandard": "c11",
+            "cppStandard": "c++14"
+        }
+    ],
+    "version": 4
+}
